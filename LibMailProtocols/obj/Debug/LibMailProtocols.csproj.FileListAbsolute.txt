@@ -1,7 +1,0 @@
-C:\Users\jbautistam\Downloads\LibrariesEMail\LibrariesEMail\LibMailProtocols\bin\Debug\LibMailProtocols.dll
-C:\Users\jbautistam\Downloads\LibrariesEMail\LibrariesEMail\LibMailProtocols\bin\Debug\LibMailProtocols.pdb
-C:\Users\jbautistam\Downloads\LibrariesEMail\LibrariesEMail\LibMailProtocols\bin\Debug\LibEncoder.dll
-C:\Users\jbautistam\Downloads\LibrariesEMail\LibrariesEMail\LibMailProtocols\bin\Debug\LibEncoder.pdb
-C:\Users\jbautistam\Downloads\LibrariesEMail\LibrariesEMail\LibMailProtocols\obj\Debug\LibMailProtocols.csprojResolveAssemblyReference.cache
-C:\Users\jbautistam\Downloads\LibrariesEMail\LibrariesEMail\LibMailProtocols\obj\Debug\LibMailProtocols.dll
-C:\Users\jbautistam\Downloads\LibrariesEMail\LibrariesEMail\LibMailProtocols\obj\Debug\LibMailProtocols.pdb
