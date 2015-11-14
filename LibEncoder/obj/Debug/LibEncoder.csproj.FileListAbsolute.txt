@@ -1,0 +1,5 @@
+C:\Users\jbautistam\Downloads\LibrariesEMail\LibrariesEMail\LibEncoder\bin\Debug\LibEncoder.dll
+C:\Users\jbautistam\Downloads\LibrariesEMail\LibrariesEMail\LibEncoder\bin\Debug\LibEncoder.pdb
+C:\Users\jbautistam\Downloads\LibrariesEMail\LibrariesEMail\LibEncoder\obj\Debug\LibEncoder.csprojResolveAssemblyReference.cache
+C:\Users\jbautistam\Downloads\LibrariesEMail\LibrariesEMail\LibEncoder\obj\Debug\LibEncoder.dll
+C:\Users\jbautistam\Downloads\LibrariesEMail\LibrariesEMail\LibEncoder\obj\Debug\LibEncoder.pdb
